@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 94,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x105.png",
     "noImageResize": ""
@@ -530,7 +530,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
         },
         {
-          "_inherit": "social-buttons1",
+          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
@@ -539,26 +539,22 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-4",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2j",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
+            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#000000",
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#000000"
           },
-          "text": ""
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/EricFujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/eric.fujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ericfujimori/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -1353,7 +1349,7 @@
           "allItem": "All"
         },
         {
-          "_inherit": "social-buttons1",
+          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
@@ -1362,26 +1358,22 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-2f",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2k",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#000000",
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#000000"
           },
-          "text": ""
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/EricFujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/eric.fujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ericfujimori/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -2178,7 +2170,7 @@
           "allItem": "All"
         },
         {
-          "_inherit": "social-buttons1",
+          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
@@ -2187,26 +2179,22 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-2g",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2l",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#000000",
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#000000"
           },
-          "text": ""
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/EricFujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/eric.fujimori\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ericfujimori/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     }
