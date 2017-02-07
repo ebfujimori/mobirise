@@ -496,7 +496,7 @@ h6,
 #header1-1 .mbr-section-title {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
-  font-size: 100px;
+  font-size: 84px;
 }
 #header1-1 .mbr-section-lead {
   text-align: center;
@@ -532,8 +532,9 @@ h6,
 }
 #form1-3 SMALL {
   color: #000000;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
+  text-align: center;
 }
 #form1-3 .mbr-section-title {
   color: #ffffff;
@@ -627,7 +628,7 @@ h6,
   color: #fff;
 }
 #msg-box8-c .mbr-section-title {
-  font-size: 100px;
+  font-size: 84px;
   font-family: 'Roboto Condensed', sans-serif;
   color: #ffffff;
 }
@@ -772,7 +773,7 @@ h6,
   color: #fff;
 }
 #msg-box8-1h .mbr-section-title {
-  font-size: 100px;
+  font-size: 84px;
   font-family: 'Roboto Condensed', sans-serif;
   color: #ffffff;
 }

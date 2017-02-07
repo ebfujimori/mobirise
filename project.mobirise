@@ -123,7 +123,7 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-161x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -144,7 +144,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "100px"
+              "font-size": "84px"
             },
             ".mbr-section-lead": {
               "text-align": "center"
@@ -246,7 +246,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2000x1125.png",
             "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
@@ -255,7 +255,7 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#c0a375",
             "columns": "2",
             "showImages": true,
             "showTitles": true,
@@ -276,7 +276,7 @@
               "newWindow": false
             }
           },
-          "title1": "DESIGNS",
+          "title1": "DESIGN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -293,7 +293,7 @@
               "newWindow": false
             }
           },
-          "title2": "PHOTOS",
+          "title2": "PHOTOGRAPHY",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -472,9 +472,10 @@
             },
             "SMALL": {
               "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "18px"
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "18px",
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
@@ -503,7 +504,7 @@
           "form": {
             "action": "ebfujimori@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks!"
             },
             "fields": {
               "name": {
@@ -669,7 +670,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "100px",
+              "font-size": "84px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "color": "#ffffff"
@@ -1365,7 +1366,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11252.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1488,7 +1489,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "100px",
+              "font-size": "84px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "color": "#ffffff"
@@ -2186,7 +2187,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11252.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
