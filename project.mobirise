@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 94,
+    "uniqCompNum": 105,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x105.png",
     "noImageResize": ""
@@ -413,10 +413,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/web-casual-precision-12-hero-2000x1113-800x445-800x445.jpg",
-                "image": "@PROJECT_PATH@/assets/images/web-casual-precision-12-hero-2000x1113-800x445.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-columbia-basin-health-association-cbha-9-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-columbia-basin-health-association-cbha-9-hero-2000x1113.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -446,10 +446,50 @@
                 "thumb": "@PROJECT_PATH@/assets/images/web-microsoft-4-hero-2000x1113-800x445-800x445.jpg",
                 "image": "@PROJECT_PATH@/assets/images/web-microsoft-4-hero-2000x1113-800x445.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-athletic-movement-protocol-8-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-athletic-movement-protocol-8-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sta-media-2-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sta-media-2-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-tableau-software-8-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-tableau-software-8-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/myoderm-2-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/myoderm-2-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -500,7 +540,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT",
-          "subtitle": "For inquiries, please feel free to leave me a message below.",
+          "subtitle": "For inquiries, please feel free to leave a message below.",
           "form": {
             "action": "ebfujimori@gmail.com",
             "alerts": {
@@ -651,7 +691,7 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-161x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1048,6 +1088,110 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "IKUSI",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-ikusi-2-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-ikusi-2-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-ikusi-4-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-ikusi-4-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-ikusi-5-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-ikusi-5-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-ikusi-7-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-ikusi-7-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#c0a375",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-2v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1065,7 +1209,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1136,12 +1280,116 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-16",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "NEW YORK CITY FOOTBALL CLUB",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-4-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-4-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-7-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-7-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-13-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-13-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-14-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-new-york-city-football-club-nycfc-14-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#c0a375",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-2u",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1253,6 +1501,150 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "PROFIT SWORD",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-3-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-3-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-6-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-6-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-13-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-13-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-10-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-10-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-12-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-12-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-14-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-14-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-15-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-15-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-profit-sword-16-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-profit-sword-16-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#c0a375",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-2t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "24px"
@@ -1269,7 +1661,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1340,7 +1732,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -1366,7 +1758,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1540,7 +1932,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1i",
+          "_anchor": "msg-box8-2m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1548,6 +1940,110 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "AIA LOGOTOOLS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-aia-logotools-3-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-aia-logotools-3-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-aia-logotools-6-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-aia-logotools-6-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-aia-logotools-8-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-aia-logotools-8-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/web-aia-logotools-10-hero-2000x1113-800x445.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-aia-logotools-10-hero-2000x1113.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-2w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1618,7 +2114,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -1651,7 +2147,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1712,7 +2208,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -1743,7 +2239,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1854,7 +2350,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -1885,7 +2381,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1956,7 +2452,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -1988,7 +2484,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2059,7 +2555,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -2090,7 +2586,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2161,7 +2657,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": false
@@ -2187,7 +2683,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,

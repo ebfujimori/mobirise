@@ -553,6 +553,9 @@ h6,
 
 
 
+
+
+
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -660,6 +663,16 @@ h6,
   font-size: 24px;
   font-family: 'Roboto Condensed', sans-serif;
 }
+#msg-box8-2o .mbr-section-title,
+#msg-box8-2o p {
+  color: #fff;
+}
+#msg-box8-2o .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
+}
 #msg-box8-15 .mbr-section-title,
 #msg-box8-15 p {
   color: #fff;
@@ -669,6 +682,16 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 24px;
 }
+#msg-box8-2q .mbr-section-title,
+#msg-box8-2q p {
+  color: #fff;
+}
+#msg-box8-2q .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
+}
 #msg-box8-18 .mbr-section-title,
 #msg-box8-18 p {
   color: #fff;
@@ -676,6 +699,16 @@ h6,
 #msg-box8-18 .mbr-section-title {
   font-size: 24px;
   font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box8-2s .mbr-section-title,
+#msg-box8-2s p {
+  color: #fff;
+}
+#msg-box8-2s .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
 }
 #msg-box8-19 .mbr-section-title,
 #msg-box8-19 p {
@@ -689,6 +722,7 @@ h6,
 #social-buttons4-2k .btn-social {
   color: #fff;
 }
+
 
 
 
@@ -775,6 +809,16 @@ h6,
 #msg-box8-1h .mbr-section-title {
   font-size: 84px;
   font-family: 'Roboto Condensed', sans-serif;
+  color: #ffffff;
+}
+#msg-box8-2m .mbr-section-title,
+#msg-box8-2m p {
+  color: #fff;
+}
+#msg-box8-2m .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 24px;
   color: #ffffff;
 }
 #msg-box8-1i .mbr-section-title,
