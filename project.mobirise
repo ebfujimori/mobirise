@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Index",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -601,7 +601,7 @@
     },
     "design.html": {
       "settings": {
-        "title": "DESIGN",
+        "title": "Design",
         "meta_descr": "Web Site Builder Description"
       },
       "components": [
@@ -1758,7 +1758,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1772,7 +1772,7 @@
     },
     "photography.html": {
       "settings": {
-        "title": "PHOTOGRAPHY",
+        "title": "Photography",
         "meta_descr": "Web Site Builder Description"
       },
       "components": [
@@ -1862,7 +1862,7 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-161x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2683,7 +2683,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
