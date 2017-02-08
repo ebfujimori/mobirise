@@ -365,8 +365,8 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -792,8 +792,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Creative",
@@ -876,7 +876,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -936,8 +936,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -968,7 +968,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -1026,8 +1026,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1070,7 +1070,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -1130,8 +1130,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1174,7 +1174,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -1233,8 +1233,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1277,7 +1277,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -1337,8 +1337,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1381,7 +1381,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -1439,8 +1439,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1483,7 +1483,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -1543,8 +1543,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1627,7 +1627,7 @@
                 "active": false
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -1685,8 +1685,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1729,7 +1729,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -1758,7 +1758,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11250.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1963,8 +1963,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2007,7 +2007,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -2067,8 +2067,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2111,7 +2111,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -2171,8 +2171,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2205,7 +2205,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -2263,8 +2263,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2347,7 +2347,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -2405,8 +2405,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2449,7 +2449,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -2508,8 +2508,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2552,7 +2552,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#c0a375",
@@ -2610,8 +2610,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -2654,7 +2654,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -2683,7 +2683,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11250.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
