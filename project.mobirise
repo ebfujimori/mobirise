@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Eric Fujimori | Design & Photography",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1759,7 +1759,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11254.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11256.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2684,7 +2684,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11254.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11256.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
