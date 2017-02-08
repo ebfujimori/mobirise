@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Index",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -187,9 +187,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "center",
+              "font-size": "17px"
             }
           },
           "_tags": [
@@ -216,7 +217,7 @@
             "showCaption": true
           },
           "title": "ABOUT",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "caption": "<p>Graphic designer and photographer based out of Orange County, CA.</p>"
         },
         {
           "_inherit": "features4",
@@ -271,7 +272,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "design.html",
-              "size": 0,
+              "size": "",
               "color": "#fff",
               "newWindow": false
             }
@@ -540,7 +541,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT",
-          "subtitle": "For inquiries, please feel free to leave a message below.",
+          "subtitle": "Get at me.",
           "form": {
             "action": "ebfujimori@gmail.com",
             "alerts": {
@@ -1758,7 +1759,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11254.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2683,7 +2684,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x11254.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,

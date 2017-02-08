@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -512,8 +512,9 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #content5-o P {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Arimo', sans-serif;
   text-align: center;
+  font-size: 17px;
 }
 #features7-1d .card-subtitle {
   color: #bcbcbc;
